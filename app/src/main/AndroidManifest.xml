@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.friends.chat">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!--
+    android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+    -->
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:launchMode="standard"
+            android:name="com.friends.chat.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.friends.chat.MainActivity"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+
+        <activity
+            android:name="com.friends.chat.BottomNavigationActivity"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+
+        <activity
+            android:name="com.friends.chat.ChatActivity"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name="com.friends.chat.SettingActivity"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+    </application>
+
+</manifest>

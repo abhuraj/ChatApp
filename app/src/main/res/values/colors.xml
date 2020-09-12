@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>-->
+    <color name="colorPrimaryDark">#70a3de</color>
+    <color name="colorPrimary">#417fc9</color>
+    <color name="colorAccent">#76D7EA</color>
+    <!---->
+
+    <color name="toolTipText">#a5a5a5</color>
+    <color name="grayEditText">#c7c7c7</color>
+    <color name="darkGray">#CC636363</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha">#66FFFFFF</color>
+    <color name="lightBlue">#70a3de</color>
+    <color name="darkBlue">#2e6bb2</color>
+    <color name="image_strokes">#979797</color>
+    <color name="contact_phone_number">#B2B2B2</color>
+    <color name="followup_text">#B8C6D5</color>
+    <color name="disabled_text">#D9D9D9</color>
+    <color name="contact_info_text">#F3F4F5</color>
+    <color name="contact_info_text_value">#A2F3FE</color>
+    <color name="LabelAqua">#99f1ff</color>
+    <color name="actionable_list_background">#F238485a</color>
+    <color name="transparent_dark_background">#E638485a</color>
+    <color name="actionable_site_background">#B9FEFC</color>
+    <color name="comment_background">#eeeeee</color>
+    <color name="black">#000000</color>
+    <color name="orange">#ffe16b10</color>
+    <color name="transparent_bg">#00000000</color>
+    <color name="blue_color">#0066FF</color>
+    <color name="brown_color">#AF593E</color>
+    <color name="green_color">#01A368</color>
+    <color name="orange_color">#FF861F</color>
+    <color name="red_color">#ED0A3F</color>
+    <color name="red_orange_color">#FF3F34</color>
+    <color name="sky_blue_color">#76D7EA</color>
+    <color name="violet_color">#8359A3</color>
+    <color name="yellow_color">#FBE870</color>
+    <color name="yellow_green_color">#C5E17A</color>
+
+    <color name="bgBottomNavigation">#fe485a</color>
+</resources>
